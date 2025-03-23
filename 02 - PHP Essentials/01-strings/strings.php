@@ -1,3 +1,4 @@
+<?php $pageTitle = "String 1"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +12,6 @@
 <title><?= $pageTitle; ?></title>
 </head>
 <body>
-    <?php $pageTitle = "String 1"; ?>
     <pre>
         <?php $greet =  'I\'m a PHP Block'; 
         echo $greet . "!!!"; 
