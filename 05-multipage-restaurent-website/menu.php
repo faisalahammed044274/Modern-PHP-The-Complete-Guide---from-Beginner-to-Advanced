@@ -1,12 +1,9 @@
 <!-- Header Included -->
 <?php
 $pageTitle = "Menu";
-$headerImg = "images/pexels-julia-volk-5273044.jpg";
+$headerImg = "images/pexels-fwstudio-172289.jpg";
 include 'includes/header.inc.php';
 ?>
-
-<!-- Should be turned into a header image -->
-<img src="images/pexels-fwstudio-172289.jpg" />
 
 <h1>Our menu</h1>
   
